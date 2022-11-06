@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-https://github.com/simgeg/kodluyoruzilkrepo.git
+git clone https://github.com/simgeg/kodluyoruzilkrepo.git
 
 ## Usage
 
